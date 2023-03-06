@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col min-h-screen text-slate-300">
         <header class="px-3 py-6 text-center">
-            <h1 class="text-3xl font-black text-white/80 drop-shadow-md">ChatGPT Web Client</h1>
+            <h1 class="text-3xl font-black text-white/80 drop-shadow-md">AutoAI Chatbot</h1>
         </header>
         <main class="flex flex-grow px-3 py-2">
             <Chat/>
